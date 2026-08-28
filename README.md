@@ -23,19 +23,19 @@ The dashboard consists of 5 main integrated pages designed to cover all operatio
 ## 🖼️ Project Previews & Screenshots
 
 ### Data Model Architecture
-![Data Model](datamodel.png)
+![Data Model](https://raw.githubusercontent.com/islamyasser424-design/Uber-Dashboard/main/Screenshot%202026-08-28%20213908.png)
 
 ### Dashboard Pages
 * **Home Page:**
-  ![Home](Screenshot 2026-08-28 213541.png)
+  ![Home](https://raw.githubusercontent.com/islamyasser424-design/Uber-Dashboard/main/Screenshot%202026-08-28%20213541.png)
 * **Overview Page:**
-  ![Overview](overview.png)
+  ![Overview](https://raw.githubusercontent.com/islamyasser424-design/Uber-Dashboard/main/Screenshot%202026-08-28%20213607.png)
 * **Revenue Page:**
-  ![Revenue](revenue.png)
+  ![Revenue](https://raw.githubusercontent.com/islamyasser424-design/Uber-Dashboard/main/Screenshot%202026-08-28%20213621.png)
 * **Lost Revenue Page:**
-  ![Lost Revenue](losses.png)
+  ![Lost Revenue](https://raw.githubusercontent.com/islamyasser424-design/Uber-Dashboard/main/Screenshot%202026-08-28%20213635.png)
 * **Cancellation Page:**
-  ![Cancellation](cancellation.png)
+  ![Cancellation](https://raw.githubusercontent.com/islamyasser424-design/Uber-Dashboard/main/Screenshot%202026-08-28%20213651.png)
 
 ## 📂 Repository Contents
 * `.pbix` file (Power BI dashboard)
@@ -43,3 +43,6 @@ The dashboard consists of 5 main integrated pages designed to cover all operatio
 * Project preview screenshots
 
 ---
+**🙏 Special Thanks:**
+I would like to express my sincere gratitude to Instant Software Solutions for their continuous support. 
+Special thanks to my instructors and mentors, **Eng. Abdelrahman Farraag** and **Eng. Ismail Mustafa**, for their valuable guidance, continuous support, and valuable knowledge throughout my learning journey.
