@@ -43,6 +43,3 @@ The dashboard consists of 5 main integrated pages designed to cover all operatio
 * Project preview screenshots
 
 ---
-**🙏 Special Thanks:**
-I would like to express my sincere gratitude to Instant Software Solutions for their continuous support. 
-Special thanks to my instructors and mentors, **Eng. Abdelrahman Farraag** and **Eng. Ismail Mustafa**, for their valuable guidance, continuous support, and valuable knowledge throughout my learning journey.
