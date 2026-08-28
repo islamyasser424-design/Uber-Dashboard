@@ -23,19 +23,20 @@ The dashboard consists of 5 main integrated pages designed to cover all operatio
 ## 🖼️ Project Previews & Screenshots
 
 ### Data Model Architecture
-![Data Model](Screenshot 2026-08-28 213908.png)
+![Data Model](Screenshot%202026-08-28%213908.png)
 
 ### Dashboard Pages
 * **Home Page:**
-  ![Home](Screenshot 2026-08-28 213541.png)
+  ![Home](Screenshot%202026-08-28%213541.png)
 * **Overview Page:**
-  ![Overview](Screenshot 2026-08-28 213607.png)
+  ![Overview](Screenshot%202026-08-28%213607.png)
 * **Revenue Page:**
-  ![Revenue](Screenshot 2026-08-28 213621.png)
+  ![Revenue](Screenshot%202026-08-28%213621.png)
 * **Lost Revenue Page:**
-  ![Lost Revenue](Screenshot 2026-08-28 213635.png)
+  ![Lost Revenue](Screenshot%202026-08-28%213635.png)
 * **Cancellation Page:**
-  ![Cancellation](Screenshot 2026-08-28 213651.png
+  ![Cancellation](Screenshot%202026-08-28%213651.png)
+
 ## 📂 Repository Contents
 * `.pbix` file (Power BI dashboard)
 * Cleaned dataset / source files
