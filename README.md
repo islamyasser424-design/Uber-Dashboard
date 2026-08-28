@@ -23,19 +23,19 @@ The dashboard consists of 5 main integrated pages designed to cover all operatio
 ## 🖼️ Project Previews & Screenshots
 
 ### Data Model Architecture
-![Data Model](Screenshot%202026-08-28%213908.png)
+![Data Model](datamodel.png)
 
 ### Dashboard Pages
 * **Home Page:**
-  ![Home](Screenshot%202026-08-28%213541.png)
+  ![Home](home.png)
 * **Overview Page:**
-  ![Overview](Screenshot%202026-08-28%213607.png)
+  ![Overview](overview.png)
 * **Revenue Page:**
-  ![Revenue](Screenshot%202026-08-28%213621.png)
+  ![Revenue](revenue.png)
 * **Lost Revenue Page:**
-  ![Lost Revenue](Screenshot%202026-08-28%213635.png)
+  ![Lost Revenue](losses.png)
 * **Cancellation Page:**
-  ![Cancellation](Screenshot%202026-08-28%213651.png)
+  ![Cancellation](cancellation.png)
 
 ## 📂 Repository Contents
 * `.pbix` file (Power BI dashboard)
@@ -43,6 +43,3 @@ The dashboard consists of 5 main integrated pages designed to cover all operatio
 * Project preview screenshots
 
 ---
-**🙏 Special Thanks:**
-I would like to express my sincere gratitude to Instant Software Solutions for their continuous support. 
-Special thanks to my instructors and mentors, **Eng. Abdelrahman Farraag** and **Eng. Ismail Mustafa**, for their valuable guidance, continuous support, and valuable knowledge throughout my learning journey.
