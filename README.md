@@ -38,7 +38,7 @@ The dashboard consists of 5 main integrated pages designed to cover all operatio
   ![Cancellation](https://raw.githubusercontent.com/islamyasser424-design/Uber-Dashboard/main/Screenshot%202026-08-28%20213651.png)
 
 ## 📂 Repository Contents
-* `.pbix` file (Power BI dashboard)
+* `[.pbix](https://github.com/islamyasser424-design/Uber-Dashboard/blob/main/UBER%20project.pbix)` file (Power BI dashboard)
 * Cleaned dataset / source files
 * Project preview screenshots
 
