@@ -27,7 +27,7 @@ The dashboard consists of 5 main integrated pages designed to cover all operatio
 
 ### Dashboard Pages
 * **Home Page:**
-  ![Home](home.png)
+  ![Home](Screenshot 2026-08-28 213541.png)
 * **Overview Page:**
   ![Overview](overview.png)
 * **Revenue Page:**
